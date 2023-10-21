@@ -1,4 +1,4 @@
-**Below are useful links to reference as you build your own portfolio website:**
+**Below are useful links to reference as you build your own portfolio website in html:**
 
 Our current slide deck:      https://go.scottylabs.org/html-ppt
 
